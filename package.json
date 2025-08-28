@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@slack/web-api": "^7.9.1",
+    "@supabase/supabase-js": "^2.49.4",
+    "axios": "^1.8.4",
+    "dotenv": "^16.4.7",
+    "lodash": "^4.17.21",
+    "moment": "^2.30.1",
+    "node-cron": "^3.0.3"
+  },
+  "name": "batch-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

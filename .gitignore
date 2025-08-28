@@ -1,0 +1,30 @@
+# Node.js dependencies
+/node_modules/
+/npm-debug.log*
+/yarn-debug.log*
+/yarn-error.log*
+/pnpm-debug.log*
+
+# Build output
+/dist/
+/build/
+/out/
+/coverage/
+
+# Env files
+.env
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.idea/
+.vscode/
+*.swp
+
+# Logs
+*.log
+logs/
+
